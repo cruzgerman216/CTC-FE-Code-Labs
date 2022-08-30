@@ -28,3 +28,6 @@ In John's website, style the following
 - Change the heading color 
 - Make the images a reasonable width of 500px 
 - Add space around the content of the body with margin
+
+## Exercise 4: Uncle Jim's Repair Shop
+Uncle Jim needs a webpage for his brand new business. Create an awesome webpage for Uncle Jim! 
