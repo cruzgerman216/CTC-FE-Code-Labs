@@ -6,7 +6,7 @@ Create a folder called Code-Labs. In Code-Labs, create a new folder called class
 ## Exercise 1: John's Pets
 - Create a folder inside of class-3 called exercise-1 
 - Inside exercise-1, create a file called index.html
-- Replicate the following in html 
+- Replicate the following in html, you can use other images from other websites.
 
 ![Exercise 1](assets/images/exercise-1.png)
 
