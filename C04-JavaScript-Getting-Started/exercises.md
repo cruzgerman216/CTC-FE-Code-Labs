@@ -115,7 +115,7 @@ These are bootstrap cdn links which means, by providing these in your index.html
 
 Once you have done that, try resizing the browser to see what happens. You should see the navbar change.
 
-- Go through the [documentation](https://getbootstrap.com/docs/5.0/components/accordion/) and copy and paste the code into your index.html file.
+- Take a second to through the Bootstrap [documentation](https://getbootstrap.com/docs/5.0/components/accordion/).  Try copying the code their and paste it into the index.html. See what you can come up with!
 
 
 ## Exercise 4: Hello World!
