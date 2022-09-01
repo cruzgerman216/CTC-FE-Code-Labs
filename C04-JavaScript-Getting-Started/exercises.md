@@ -18,7 +18,7 @@ Here is a [resource](https://www.w3schools.com/css/css3_animations.asp).
 ## Exercise 2: Create a multi-page site!
 
 - Create a folder inside of class-4 called exercise-2
-- Inside exercise-1, create a file called home.html, school.html and park.html.
+- Inside exercise-2, create a file called home.html, school.html and park.html.
 - Inside of home.html, school.html, and park.html, copy and paste the following:
 
 ```html
