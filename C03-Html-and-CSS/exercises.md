@@ -1,4 +1,4 @@
-# Intro to HTML/CSS Exercises (Class 3)
+# Intro to HTML/CSS Exercises
 
 **Read before starting**
 Create a folder called Code-Labs. In Code-Labs, create a new folder called class-3. You will be working in the class-3 folder for today.
