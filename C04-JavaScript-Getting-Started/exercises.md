@@ -117,6 +117,9 @@ Once you have done that, try resizing the browser to see what happens. You shoul
 
 - Take a second to through the Bootstrap [documentation](https://getbootstrap.com/docs/5.0/components/accordion/).  Try copying the code their and paste it into the index.html. See what you can come up with!
 
+---
+
+---
 
 ## Exercise 4: Hello World!
 
@@ -128,6 +131,9 @@ Follow this [resource](https://www.w3schools.com/jsref/met_console_log.asp) as a
 
 Be sure to open your `dev tools` in your browser to see the printed statement. 
 
+---
+
+---
 
 ## Exercise #5
 
