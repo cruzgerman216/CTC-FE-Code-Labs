@@ -55,7 +55,7 @@ Here is a [resource](https://www.w3schools.com/css/css3_animations.asp).
 ## Exercise 3: Bootstrap, the CSS Framework that makes your life easier.
 
 - Create a folder inside of class-4 called exercise-3
-- Inside exercise-1, create a file called index.html
+- Inside exercise-3, create a file called index.html
 - In Index.html, include the following in the head element:
 
 ```html
