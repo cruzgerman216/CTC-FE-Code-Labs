@@ -3,7 +3,7 @@
 In your `Code-Labs` folder, create a new folder called class-5. You will be working in the class-5 folder for today.
 
 ## Exercise #0: Before getting started 
-In `class-4`, create a folder called `exercise-0-terms`.
+In `class-5`, create a folder called `exercise-0-terms`.
 
 - Create a file called foundations.txt 
 - Answer the following questions in your own words:
@@ -13,7 +13,7 @@ In `class-4`, create a folder called `exercise-0-terms`.
 4. What are loops? 
 
 ## Exercise #1: Variables
-In `class-4`, create a folder called `exercise-1-variables`. 
+In `class-5`, create a folder called `exercise-1-variables`. 
 
 **Aim**: Create a variable for every JavaScript Data Type
 
@@ -32,7 +32,7 @@ In `class-4`, create a folder called `exercise-1-variables`.
 ---
 
 ## Exercise #2: Operators 
-In `class-4`, create a folder called `exercise-2-operators`. 
+In `class-5`, create a folder called `exercise-2-operators`. 
 
 - Create `index.js`
 
@@ -51,7 +51,7 @@ In `class-4`, create a folder called `exercise-2-operators`.
 ---
 
 ## Exercise 3: Conditional Statements 
-In `class-4`, create a folder called `exercise-3-conditional-statements`. 
+In `class-5`, create a folder called `exercise-3-conditional-statements`. 
 
 - Create `index.js`
 - Code an example of a conditional statement
@@ -61,7 +61,7 @@ In `class-4`, create a folder called `exercise-3-conditional-statements`.
 ---
 
 ## Exercise 4: For loop 
-In `class-4`, create a folder called `exercise-4-for-loop`. 
+In `class-5`, create a folder called `exercise-4-for-loop`. 
 
 - Create index.js
 Given the array 
@@ -76,7 +76,7 @@ Use a for loop to print out the names of each student.
 ---
 
 ## Exercise 5: Found John!
-In `class-4`, create a folder called `exercise-5-loops`. 
+In `class-5`, create a folder called `exercise-5-loops`. 
 
 Give the array 
 ```js 
@@ -106,7 +106,7 @@ Give the array
 
 ### Further Challenges
 ## Exercise 6: Multiples
-In `class-4`, create a folder called `exercise-6-multiples`. 
+In `class-5`, create a folder called `exercise-6-multiples`. 
 
 **Aim**: Create a function that takes two numbers as arguments (num, length) and returns an array of multiples of num until the array length reaches length.
 
@@ -121,7 +121,7 @@ arrayOfMultiples(17, 6)    ➞    [17, 34, 51, 68, 85, 102]
 ```
 
 ## Exercise #7: Html and JS
-In `class-4`, create a folder called `exercise-7`. 
+In `class-5`, create a folder called `exercise-7`. 
 
 **Aim**: Dynamically display a list of food items and prices using HTML & JavaScript
 
