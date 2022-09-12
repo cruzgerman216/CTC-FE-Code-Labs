@@ -1,4 +1,4 @@
-# JavaScript Foundations - Part 1 (Class 2)
+# JavaScript Foundations - Part 1 
 **Read before starting**
 In your `Code-Labs` folder, create a new folder called class-5. You will be working in the class-5 folder for today.
 
