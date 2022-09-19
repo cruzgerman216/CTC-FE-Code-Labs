@@ -22,7 +22,6 @@ In `class-7-JavaScript-Building-Real-Things`, create a folder called `exercise-1
 - Declare two `let` variables, a and b. Assign a to 5. Assign b to 10. 
 - Log the addition of both a and b to the console.
 
-
 ---
 
 ---
