@@ -232,5 +232,121 @@ In the class-10 folder, create a folder called exercise-10.
 
 Use a [loop](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Loops_and_iteration) to print numbers 0 - 50. 
 
+## Exercise 11 
+In the class-10 folder, create a folder called exercise-11.
 
+- Use a built in array method like [filter](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/filter) to filter out numbers less than 10 in the following array: 
+
+```js
+  let numbers = [1,5,10,15,20];
+```
+
+## Exercise 12
+In the class-10 folder, create a folder called exercise-12. 
+
+Give an example of a [if, else if and else](https://www.w3schools.com/js/js_if_else.asp) statement. 
+
+## Exercise 13
+In the class-10 folder, create a folder called exercise-13. 
+
+Use JavaScript to [change the background color](https://www.w3schools.com/jsref/prop_style_backgroundcolor.asp) of a webpage to 'green'. 
+
+## Exercise 14
+In the class-10 folder, create a folder called exercise-14. 
+
+Use JavaScript to [create an h1 element](https://www.w3schools.com/jsref/met_document_createelement.asp) with content 'John's Blog Website!'.
+
+## Exercise 15 
+In the class-10 folder, create a folder called exercise-15. 
+
+Given the array of numbers: 
+
+```js
+  let numbers = [1,2,3,4,5,6,7,8,9,10]
+```
+
+Define a function called addNumbersToWebpage. 
+
+This function needs to append a paragraph element onto to the webpage for each value of the array.
+
+## Exercise 16
+In the class-10 folder, create a folder called exercise-16. 
+
+- Define a function called add. 
+- This function has two parameters: a and b like so: 
+
+```js 
+  function add(a,b){
+
+  }
+```
+
+- This function's purpose is to `return` the addition of two numbers.
+
+- Define a function called log. 
+- This function has one parameter called value. 
+- Call this function and pass in add(10,10) as an argument. 
+- You should see 20 in the console.
+
+## Exercise 16
+In the class-10 folder, create a folder called exercise-16
+
+Given the object: 
+
+```js 
+  let school = {
+    students: 500,
+    classrooms: 60,
+    teachers 50
+  }
+```
+
+Log to the properties of school (students, classrooms and teachers).
+
+Here's an example.
+
+```js
+  console.log(school.students)
+```
+
+## Exercise 17 
+In the class-10 folder, create a folder called exercise-17.
+
+Given the array: 
+
+```js 
+
+  let users = [
+    {
+      name: "John",
+      age: 30
+    },
+    {
+      name: "Jimmy",
+      age: 20
+    },
+    {
+      name: "Amy",
+      age: 43
+    }
+  ]
+```
+
+Print the content of each object that exists in the users array onto the webpage except the object that has the name `Jimmy`.
+
+## Exercise 18 
+In the class-10 folder, create a folder called exercise-18. 
+
+- Use an [event listener](https://www.w3schools.com/jsref/event_onclick.asp) to listen for a button click. When the user clicks on this button, log to the console "Clicked!". 
+
+## Exercise 19
+In the class-10 folder, create a folder called exercise-19. 
+
+- Create a h1 element in your html file with content "Click me to change the color of this text!"
+- Use an event listener to do just this but instead of adding the event listener in html use  [addeventlistener](https://www.w3schools.com/js/js_htmldom_eventlistener.asp)
+
+## Exercise 20 
+In the class-10 folder, create a folder called exercise-19. 
+
+Use [setinterval](https://www.w3schools.com/jsref/met_win_setinterval.asp) to append a div to the webpage. This div should a 200px by 200px red square.
 
