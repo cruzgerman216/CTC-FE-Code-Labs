@@ -501,7 +501,7 @@ sumFinder([6,4,3,2,1,7], 2); // false
 
 
 ## Exercise 28
-In class-10, create a folder called exercise 27.
+In class-10, create a folder called exercise 28.
 
 Find the largest number from the array.
 
@@ -513,4 +513,20 @@ Find the largest number from the array.
   }
 
   findLargestNumber(numbers) // 12
+```
+
+
+## Exercise 29
+In class-10, create a folder called exercise 29.
+
+Add all the numbers from the array.
+
+```js
+  let numbers = [1,2,3,4,5,6,7,8,9,10]
+
+  function addAllNumbers(arr){
+    // Build your logic here
+  }
+
+  addAllNumbers(numbers) // 55
 ```
