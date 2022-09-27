@@ -382,21 +382,20 @@ In class-10, create a folder called exercise 22.
 
 Given the string
 
-```js 
-  let str = "'Here's Johnny!' is a famous movie line from..." 
+```js
+let str = "'Here's Johnny!' is a famous movie line from...";
 ```
 
-Define a function called capitalizeEachWord with one parameter. This function will capitalize each word. 
+Define a function called capitalizeEachWord with one parameter. This function will capitalize each word.
 
-```js 
-  let str = "'Here's Johnny!' is a famous movie line from..." 
-  function capitalizeEachWord(sentence){
-    // Build your logic here
-  }
+```js
+let str = "'Here's Johnny!' is a famous movie line from...";
+function capitalizeEachWord(sentence) {
+  // Build your logic here
+}
 
-  capitalizeEachWord(str); // 'Here's Johnny!' Is A Famous Movie Line From... 
+capitalizeEachWord(str); // 'Here's Johnny!' Is A Famous Movie Line From...
 ```
-
 
 ## Exercise 23
 
@@ -404,21 +403,21 @@ In class-10, create a folder called exercise 23.
 
 Given the string
 
-```js 
-  let str = "I am 10. My address is 1112 Some Str." 
+```js
+let str = "I am 10. My address is 1112 Some Str.";
 ```
 
 Define a function called countNumbersInSentence with one parameter. This function will return the count of total numbers
 
-```js 
-  let str = "I am 10. There are 14, 24 or maybe only 10 water bottles left in the house." 
-  function countNumbersInSentence(sentence){
-    // Build your logic here
-  }
+```js
+let str =
+  "I am 10. There are 14, 24 or maybe only 10 water bottles left in the house.";
+function countNumbersInSentence(sentence) {
+  // Build your logic here
+}
 
-  countNumbersInSentence(str); // 4
+countNumbersInSentence(str); // 4
 ```
-
 
 ## Exercise 24
 
@@ -426,21 +425,20 @@ In class-10, create a folder called exercise 24.
 
 Given the string
 
-```js 
-  let num = 1010101
+```js
+let num = 1010101;
 ```
 
 Define a function called countZeros with one parameter. This function will return the total number of 0s.
 
-```js 
-  let num = 1010101
-  function countZeros(num){
-    // Build your logic here
-  }
+```js
+let num = 1010101;
+function countZeros(num) {
+  // Build your logic here
+}
 
-  countZeros(str); // 3
+countZeros(str); // 3
 ```
-
 
 ## Exercise 25
 
@@ -448,21 +446,20 @@ In class-10, create a folder called exercise 25.
 
 Given the string
 
-```js 
-  let name = "Amy"
+```js
+let name = "Amy";
 ```
 
 Define a function called updateNames with one parameter. This function will replace the name John withe given parameter.
 
-```js 
-  function updateNames(name){
-  let sentence = "Hello, my name is John. My friend's name is also John."
-    // Build your logic here
-  }
+```js
+function updateNames(name) {
+  let sentence = "Hello, my name is John. My friend's name is also John.";
+  // Build your logic here
+}
 
-  updateNames(name); // "Hello, my name is Amy. My friend's name is also Amy."
+updateNames(name); // "Hello, my name is Amy. My friend's name is also Amy."
 ```
-
 
 ## Exercise 26
 
@@ -470,18 +467,36 @@ In class-10, create a folder called exercise 26.
 
 Given the string
 
-```js 
-  let sentence = "My name is John!"
+```js
+let sentence = "My name is John!";
 ```
 
 Define a function called updateNames with one parameter. This function will reverse the string. You cannot use any built in methods to do this. Use a loop.
 
-```js 
-  function reverse(str){
-    // Build your logic here
-  }
+```js
+function reverse(str) {
+  // Build your logic here
+}
 
-  reverse(sentence); // "!nhoJ si eman yM"
+reverse(sentence); // "!nhoJ si eman yM"
 ```
 
+## Exercise 27
 
+In class-10, create a folder called exercise 27.
+
+
+From a unsorted array, check whether there are any two numbers that will sum up to a given number?
+
+```js
+
+function sumFinder(arr, sum){
+  // Build your logic here
+
+}
+
+sumFinder([6,4,3,2,1,7], 9); // true
+sumFinder([6,4,3,2,1,7], 2); // false
+
+
+```
