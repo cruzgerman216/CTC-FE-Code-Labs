@@ -186,13 +186,12 @@ console.log("a + b is ", a + b); // a + b is 15
 Log the evaluation of a and b using the following [operators](https://www.w3schools.com/js/js_operators.asp)
 
 - Multiplication
-- subtraction
-- division
+- Subtraction
+- Division
 - Modulus
 - Exponentiation
-- Division
 - Increment
-- decrement
+- Decrement
 
 ## Exercise 8
 
