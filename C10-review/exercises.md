@@ -430,7 +430,7 @@ Given the string
   let num = 1010101
 ```
 
-Define a function called countZeros with one parameter. 
+Define a function called countZeros with one parameter. This function will return the total number of 0s.
 
 ```js 
   let num = 1010101
@@ -440,3 +440,26 @@ Define a function called countZeros with one parameter.
 
   countZeros(str); // 3
 ```
+
+
+## Exercise 25
+
+In class-10, create a folder called exercise 25.
+
+Given the string
+
+```js 
+  let name = "Amy"
+```
+
+Define a function called updateNames with one parameter. This function will replace the name John withe given parameter.
+
+```js 
+  function updateNames(name){
+  let sentence = "Hello, my name is John. My friend's name is also John."
+    // Build your logic here
+  }
+
+  updateNames(name); // "Hello, my name is Amy. My friend's name is also Amy."
+```
+
