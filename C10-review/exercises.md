@@ -408,7 +408,7 @@ Given the string
   let str = "I am 10. My address is 1112 Some Str." 
 ```
 
-Define a function called countNumbersInSentence with one parameter. This function will capitalize each word. 
+Define a function called countNumbersInSentence with one parameter. This function will return the count of total numbers
 
 ```js 
   let str = "I am 10. There are 14, 24 or maybe only 10 water bottles left in the house." 
@@ -417,4 +417,26 @@ Define a function called countNumbersInSentence with one parameter. This functio
   }
 
   countNumbersInSentence(str); // 4
+```
+
+
+## Exercise 24
+
+In class-10, create a folder called exercise 24.
+
+Given the string
+
+```js 
+  let num = 1010101
+```
+
+Define a function called countZeros with one parameter. 
+
+```js 
+  let num = 1010101
+  function countZeros(num){
+    // Build your logic here
+  }
+
+  countZeros(str); // 3
 ```
