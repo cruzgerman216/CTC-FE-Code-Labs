@@ -497,6 +497,20 @@ function sumFinder(arr, sum){
 
 sumFinder([6,4,3,2,1,7], 9); // true
 sumFinder([6,4,3,2,1,7], 2); // false
+```
 
 
+## Exercise 28
+In class-10, create a folder called exercise 27.
+
+Find the largest number from the array.
+
+```js
+  let numbers = [5,2,8,3,12,0,4]
+
+  function findLargestNumber(arr){
+    // Build your logic here
+  }
+
+  findLargestNumber(numbers) // 12
 ```
