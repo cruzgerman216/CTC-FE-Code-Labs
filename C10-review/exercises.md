@@ -463,3 +463,25 @@ Define a function called updateNames with one parameter. This function will repl
   updateNames(name); // "Hello, my name is Amy. My friend's name is also Amy."
 ```
 
+
+## Exercise 26
+
+In class-10, create a folder called exercise 26.
+
+Given the string
+
+```js 
+  let sentence = "My name is John!"
+```
+
+Define a function called updateNames with one parameter. This function will reverse the string. You cannot use any built in methods to do this. Use a loop.
+
+```js 
+  function reverse(str){
+    // Build your logic here
+  }
+
+  reverse(sentence); // "!nhoJ si eman yM"
+```
+
+
