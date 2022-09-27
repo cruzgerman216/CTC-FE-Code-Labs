@@ -396,3 +396,25 @@ Define a function called capitalizeEachWord with one parameter. This function wi
 
   capitalizeEachWord(str); // 'Here's Johnny!' Is A Famous Movie Line From... 
 ```
+
+
+## Exercise 23
+
+In class-10, create a folder called exercise 23.
+
+Given the string
+
+```js 
+  let str = "I am 10. My address is 1112 Some Str." 
+```
+
+Define a function called countNumbersInSentence with one parameter. This function will capitalize each word. 
+
+```js 
+  let str = "I am 10. There are 14, 24 or maybe only 10 water bottles left in the house." 
+  function countNumbersInSentence(sentence){
+    // Build your logic here
+  }
+
+  countNumbersInSentence(str); // 4
+```
