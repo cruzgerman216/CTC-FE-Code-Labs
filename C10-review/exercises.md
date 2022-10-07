@@ -293,7 +293,7 @@ function add(a, b) {}
 - Call this function and pass in add(10,10) as an argument.
 - You should see 20 in the console.
 
-## Exercise 16
+## Exercise 17
 
 In the class-10 folder, create a folder called exercise-16
 
@@ -315,7 +315,7 @@ Here's an example.
 console.log(school.students);
 ```
 
-## Exercise 17
+## Exercise 18
 
 In the class-10 folder, create a folder called exercise-17.
 
@@ -340,26 +340,26 @@ let users = [
 
 Print the content of each object that exists in the users array onto the webpage except the object that has the name `Jimmy`.
 
-## Exercise 18
+## Exercise 19
 
 In the class-10 folder, create a folder called exercise-18.
 
 - Use an [event listener](https://www.w3schools.com/jsref/event_onclick.asp) to listen for a button click. When the user clicks on this button, log to the console "Clicked!".
 
-## Exercise 19
+## Exercise 20
 
 In the class-10 folder, create a folder called exercise-19.
 
 - Create a h1 element in your html file with content "Click me to change the color of this text!"
 - Use an event listener to do just this but instead of adding the event listener in html use [addeventlistener](https://www.w3schools.com/js/js_htmldom_eventlistener.asp)
 
-## Exercise 20
+## Exercise 21
 
 In the class-10 folder, create a folder called exercise-20.
 
 Use [setinterval](https://www.w3schools.com/jsref/met_win_setinterval.asp) to append a div to the webpage every 1 second. This div should a 200px by 200px red square.
 
-## Exercise 21
+## Exercise 22
 
 In the class-10 folder, create a folder called exercise-21.
 Create a nested loop that will the contents of an array twice.
@@ -375,7 +375,7 @@ for (let i = 0; i < numbers.length; i++) {
 }
 ```
 
-## Exercise 22
+## Exercise 23
 
 In class-10, create a folder called exercise 22.
 
@@ -396,7 +396,7 @@ function capitalizeEachWord(sentence) {
 capitalizeEachWord(str); // 'Here's Johnny!' Is A Famous Movie Line From...
 ```
 
-## Exercise 23
+## Exercise 24
 
 In class-10, create a folder called exercise 23.
 
@@ -418,7 +418,7 @@ function countNumbersInSentence(sentence) {
 countNumbersInSentence(str); // 4
 ```
 
-## Exercise 24
+## Exercise 25
 
 In class-10, create a folder called exercise 24.
 
@@ -439,7 +439,7 @@ function countZeros(num) {
 countZeros(str); // 3
 ```
 
-## Exercise 25
+## Exercise 26
 
 In class-10, create a folder called exercise 25.
 
@@ -460,7 +460,7 @@ function updateNames(name) {
 updateNames(name); // "Hello, my name is Amy. My friend's name is also Amy."
 ```
 
-## Exercise 26
+## Exercise 27
 
 In class-10, create a folder called exercise 26.
 
@@ -480,7 +480,7 @@ function reverse(str) {
 reverse(sentence); // "!nhoJ si eman yM"
 ```
 
-## Exercise 27
+## Exercise 28
 
 In class-10, create a folder called exercise 27.
 
@@ -499,7 +499,7 @@ sumFinder([6,4,3,2,1,7], 2); // false
 ```
 
 
-## Exercise 28
+## Exercise 29
 In class-10, create a folder called exercise 28.
 
 Find the largest number from the array.
@@ -515,7 +515,7 @@ Find the largest number from the array.
 ```
 
 
-## Exercise 29
+## Exercise 30
 In class-10, create a folder called exercise 29.
 
 Add all the numbers from the array.
