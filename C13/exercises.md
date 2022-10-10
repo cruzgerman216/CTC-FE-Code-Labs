@@ -26,5 +26,17 @@ Set this user to a user instance and fill each property this user has with the f
 - Age should be 25
 - height should be 5'6.
 
+## Exercise 2: 
+Create a folder called exercise-2. Create a file called index.ts. 
+Define a class called Logger. 
+Logger has a series of methods such as:
+- logRandomNumber() - log a random number between 0 to 1000
+- logARandomColor() - given an array of colors, output a random color to the console.
+- logTo100() - output to the console numbers 0 to 100
+
+Create a logger instances to execute these methods. 
+
+
+
 
 
