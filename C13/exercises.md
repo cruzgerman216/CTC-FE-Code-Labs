@@ -64,3 +64,17 @@ The purpose of this method is to log the user instances favorite color. Do not m
 
 Use this [resource](https://www.w3schools.com/js/js_classes.asp) as a demonstration.
 
+
+## Exercise 4 
+Create a folder called exercise-4. Create a file called index.ts.
+
+Define a class called person. This class has the property birthYear that is of type number as well as a animal property that is of type animal.
+
+Define a class called animal. This class also has a property called birthYear that is of type number. 
+
+Create a person instance and fill it's birthYear property to 2000. 
+Create a animal instance and fill it's birthYear to 2015. 
+
+In the person class, define a method called ageDifference.
+
+This method should log to the console "The age difference between my animal and I is..." follow by the age difference. 
