@@ -3,7 +3,13 @@
 **Read before starting**
 In Code-Labs, create a new folder called class-12. You will be working in the class-12 folder for today.
 
-In class-12 run `tsc --init`. This will configure your TypeScript environment and prevent unusual errors.
+In class-12 run `npx tsc --init`. This will configure your TypeScript environment and prevent unusual errors.
+
+To transpile a typescript file into js, run ths command in the terminal
+
+```
+npx tsc file-name.ts
+```
 
 ## Exercise 1:
 Create a folder called exercise-1. Create a file called index.ts. We won't need the browser(html) to execute this.
