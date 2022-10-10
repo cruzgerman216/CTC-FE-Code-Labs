@@ -80,11 +80,11 @@ isOdd(11) // true
 ## Exercise 7: 
 Create a folder called exercise-7 and file called index.ts. 
 
-Define a class called animal. This class should define properties: name of type string, age of type number and location of type Location; 
-Define a location class. This class should define properties: name of type string.
+Define a class called animal. This class should define properties: name of type string, age of type number and region of type region; 
+Define a region class. This class should define properties: name of type string.
 
-Create a location instance that has the name "Africa".
-Create a animal instance that has the name "Johnny the Lion", 5 for the age and location to be set to the instance with the name "Africa".
+Create a region instance that has the name "Africa".
+Create a animal instance that has the name "Johnny the Lion", 5 for the age and region to be set to the instance with the name "Africa".
 
 Log these instances to the console.
 
