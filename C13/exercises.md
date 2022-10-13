@@ -64,8 +64,6 @@ Define a method inside of the Person class called LogFavoriteColor.
 
 The purpose of this method is to log the Person instances favorite color. Do not manually log 'Blue'. Be sure to access the Person instance's favoriteColor property using the 'this' keyword.
 
-
-
 ## Exercise 4 
 Create a folder called exercise-4. Create a file called index.ts.
 
