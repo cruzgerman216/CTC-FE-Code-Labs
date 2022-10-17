@@ -5,22 +5,11 @@ Create a new folder **outside of your Code Labs folder** called Code-Labs-FE.
 
 Open this folder in Visual Studio Code
 
-Go to the terminal and enter 
-
-```
-ng new code-labs-FE-angular-projects --create-application false
-```
-
-Change to the newly created directory.
-```
-cd code-labs-FE-angular-projects
-```
-
 ## Exercise 0: Generating an Angular app
 In the terminal, be sure you are in your `code-labs-FE-angular-projects` directory, run 
 
 ```
-ng generate application C14-my-first-app
+ng new C14-my-first-app --no-strict
 ```
 
 cd into `C14-my-first-app` and run the project by entering `ng serve` in the terminal.
