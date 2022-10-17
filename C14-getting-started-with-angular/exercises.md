@@ -6,7 +6,7 @@ Create a new folder **outside of your Code Labs folder** called Code-Labs-FE.
 Open this folder in Visual Studio Code
 
 ## Exercise 0: Generating an Angular app
-In the terminal, be sure you are in your `code-labs-FE-angular-projects` directory, run 
+
 
 ```
 ng new C14-my-first-app --no-strict
