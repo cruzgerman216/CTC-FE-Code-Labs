@@ -1,7 +1,7 @@
 # Angular - Getting Started - Exercises
 
 **Read before starting**
-Create a new folder **outside of your Code Labs folder** called Code-Labs-FE. 
+Create a new folder **outside of your Code Labs folder** called Code-Labs-FE-Angular. 
 
 Open this folder in Visual Studio Code
 
