@@ -1,4 +1,4 @@
-# Class 12 - The Basics
+# The Basics
 
 [Class 12 Course Content](https://pro.academind.com/courses/765847/lectures/13901064)
 
