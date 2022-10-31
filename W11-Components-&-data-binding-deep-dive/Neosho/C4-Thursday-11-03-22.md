@@ -1,26 +1,23 @@
 # Angular: Components & Databinding deep dive
-## Class 11-03-22
+ Class 11-03-22
 
-## Assignments
+ Assignments
 
-### Pick a Project 
-Projects must be approved before starting. Please talk to your teacher before starting. 
-- [ ]
+## Pick a Project **21pts**
+Projects must be approved. You will work on this project for the rest of the program. 
+- [ ] Pick a project theme **5pts**
+  - For ideas, navigate [here](../assets/project-ideas.md)
+- [ ] Come up a project name (e.g, Mighty-TodoList-App, Jamies-Video-Game-Library, Zues-location-tracker) **2pt**
+- [ ] Come up with one primary color for your app. **1pt**
+  - For example, YouTube's primary color is red. Facebook's primary color is blue. 
+- [ ] Generate a new Angular project in non-strict mode that is the name of your project. Be sure to do this **outside** of any Code labs folder. This must be a separate folder. **2pt**
+- [ ] Upload your project folder to GitHub by creating a new repository. **3pt**
+- [ ] Install Bootstrap to your project and commit to GitHub **1pt**
+- [ ] Create a folder called shared. Generate a component called header and add this to the shared directory. Use the header component's selector to add to the app component. You can use [bootstrap](https://getbootstrap.com/docs/5.0/components/navbar/) to style a navbar. Remove things you don't need. **3 pts**
+- [ ] Generate a component called landing-page. This landing page should have a h1 that is your project name. A paragraph element about your project. Add the selector of this component to your app component. Style your landing page. **3 pts**
+- [ ] Generate a component called footer. This footer should include content such as "Made by John Doe". Add this selector to your app component. **1pt**
 
+## Test Your Might: Bonus Section - 5 pts
+![test your might](https://www.programming-hero.com/img/startup.svg)
 
-
-- [ ] [Projecting Content into Components with ng-content (3:22 )](https://pro.academind.com/courses/765847/lectures/13901529)
-- [ ] [Understanding the Component Lifecycle (4:54 )](https://pro.academind.com/courses/765847/lectures/13901539)
-- [ ] [Seeing Lifecycle Hooks in Action (11:54 )](https://pro.academind.com/courses/765847/lectures/13901549)
-- [ ] [Lifecycle Hooks and Template Access (2:33 )](https://pro.academind.com/courses/765847/lectures/13901541)
-- [ ] [Getting Access to ng-content with @ContentChild (3:00 )](https://pro.academind.com/courses/765847/lectures/13901544)
-- [ ] [Wrap Up (0:49 )](https://pro.academind.com/courses/765847/lectures/13901550)
-
-### Course Project - Components & Databinding 
-- [ ] [Introduction (0:50 )](https://pro.academind.com/courses/765847/lectures/13901922)
-- [ ] [Adding Navigation with Event Binding and ngIf (7:31 )](https://pro.academind.com/courses/765847/lectures/139019201)
-- [ ] [Passing Recipe Data with Property Binding (4:43 )](https://pro.academind.com/courses/765847/lectures/13901924)
-- [ ] [Passing Data with Event and Property Binding (Combined) (10:31 )](https://pro.academind.com/courses/765847/lectures/13901923)
-- [ ] [Allowing the User to Add Ingredients to the Shopping List (7:22 )](https://pro.academind.com/courses/765847/lectures/13901921)
-<hr>
-
+- [ ] Time to think. What are some features you can add to your application? Does your application have a sign up/login page? What do you want to add in this library? After thinking, have a discussion with your teacher.**5pts**
