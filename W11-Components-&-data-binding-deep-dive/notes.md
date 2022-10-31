@@ -1,7 +1,5 @@
 # Components & Databinding Deep Dive && Course Project
 
-[Class 14 Course Content](https://pro.academind.com/courses/765847/lectures/13901530)
-
 ## Lesson Outline
 
 Today we will learn more about:

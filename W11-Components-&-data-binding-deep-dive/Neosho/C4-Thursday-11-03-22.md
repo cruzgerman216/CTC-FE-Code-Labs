@@ -1,11 +1,13 @@
 # Angular: Components & Databinding deep dive
-## Class 11-02-22
+## Class 11-03-22
 
-## Videos Task list - 9pts
-- If you have not finished watching the previous videos, be sure to finish them and report your progress to me. 
-- Code Along The Videos
-- Each commit is a point.
-<hr>
+## Assignments
+
+### Pick a Project 
+Projects must be approved before starting. Please talk to your teacher before starting. 
+- [ ]
+
+
 
 - [ ] [Projecting Content into Components with ng-content (3:22 )](https://pro.academind.com/courses/765847/lectures/13901529)
 - [ ] [Understanding the Component Lifecycle (4:54 )](https://pro.academind.com/courses/765847/lectures/13901539)
