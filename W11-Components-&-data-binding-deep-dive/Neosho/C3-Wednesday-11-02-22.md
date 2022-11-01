@@ -15,6 +15,9 @@
 - [ ] [Wrap Up (0:49 )](https://pro.academind.com/courses/765847/lectures/13901550) **1pt**
 
 ### Course Project - Components & Databinding 
+
+If you did not code along in the **Course Project - The Basics**, then you will have to go back and finish them. 
+
 - [ ] [Introduction (0:50 )](https://pro.academind.com/courses/765847/lectures/13901922) **1pt**
 - [ ] [Adding Navigation with Event Binding and ngIf (7:31 )](https://pro.academind.com/courses/765847/lectures/139019201) **1pt**
 - [ ] [Passing Recipe Data with Property Binding (4:43 )](https://pro.academind.com/courses/765847/lectures/13901924) **1pt**
