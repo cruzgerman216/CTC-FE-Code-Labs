@@ -20,4 +20,4 @@ Projects must be approved. You will work on this project for the rest of the pro
 ## Test Your Might: Bonus Section - 5 pts
 ![test your might](https://www.programming-hero.com/img/startup.svg)
 
-- [ ] Time to think. What are some features you can add to your application? Does your application have a sign up/login page? What do you want to add in this library? After thinking, have a discussion with your teacher.**5pts**
+- [ ] Time to think. What are some features you can add to your application? Does your application have a sign up/login page? What do you want to add in this application? After thinking, have a discussion with your teacher.**5pts**
