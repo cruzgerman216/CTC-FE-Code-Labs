@@ -1,4 +1,4 @@
-# Angular: Angular: Directives deep dive & Services
+# Angular: Directives deep dive & Services
 ## Class Tasks 11-09-22
 
 ## Videos Task list - 9pts
