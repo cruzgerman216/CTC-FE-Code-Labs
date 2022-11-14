@@ -8,7 +8,7 @@
 
 <hr>
 
-### Course Project - Services & Dependency Injection
+### Changing Pages with Routing
 - [ ] [Module Introduction (1:26 )](https://pro.academind.com/courses/765847/lectures/13902399) **1pt**
 - [ ] [Why do we need a Router? (1:15 )](https://pro.academind.com/courses/765847/lectures/13902405) **1pt**
 - [ ] [Setting up and Loading Routes (8:01 )](https://pro.academind.com/courses/765847/lectures/13902421) **1pt**
