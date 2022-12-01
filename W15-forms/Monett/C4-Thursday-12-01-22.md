@@ -1,5 +1,13 @@
-# Angular: Forms - Course Project
+# Angular Project
 
-## Videos Task list - 10pts
+## Your project must have the following 
 
-- [Handling Forms - Course Project](https://pro.academind.com/courses/765847/lectures/13902992)
+- A project theme 
+- CRUD operations: I should be able to for example, create a book, look at books, update a book and delete a book 
+- Incorporate Routing to allow users to navigate from page to page
+- Angular forms 
+
+## Grading will also include 
+- Logic and understanding 
+- Creativity 
+- Commits 
